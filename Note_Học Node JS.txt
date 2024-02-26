@@ -1,0 +1,6 @@
+
+#Terminal
+
+Chạy file index.js
+node index.js
+
